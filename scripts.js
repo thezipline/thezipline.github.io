@@ -1,0 +1,1 @@
+document.getElementByClassName("navbar").style.height=window.innerHeight;
